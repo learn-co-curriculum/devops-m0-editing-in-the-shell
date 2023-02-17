@@ -1,6 +1,6 @@
 # Editing Text in the Shell
 
-## Learning goals
+## Learning goalss
 
 - Learn how to edit text in the shell
 - Understand the pros and cons of editing text in the shell
