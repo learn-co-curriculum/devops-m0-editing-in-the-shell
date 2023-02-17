@@ -13,7 +13,7 @@ Often times, you'll find that you want to edit text in the shell itself, instead
 There are quite a few advantages to using the shell/terminal to edit text:
 
 - **Speed**: Editing text in the shell can actually be faster than using a graphical text editor, especially if you are already working in the shell and don't want to bother switching to a different program.
-- **Remote access**: Often times, if you log-in to a remote server, you will not have access to a graphical text editor. In this case, using a CLI texte editor can be the only way to edit files on that remote system.
+- **Remote access**: Often times, if you log-in to a remote server, you will not have access to a graphical text editor. In this case, using a CLI text editor can be the only way to edit files on that remote system.
 - **Scripting**: You can use shell commands like the ones we went over in the previous chapters to automate tasks or perform multiple actions.
 
 With that out of the way, we should begin by taking a look at two of the most popular CLI text editors: `nano` and `vim`.
